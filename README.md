@@ -1,4 +1,4 @@
-# app3_estudo_quiz
+# app_estudo_quiz
 
 A new Flutter project.
 
