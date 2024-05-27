@@ -61,8 +61,8 @@ const questions = [
   QuizQuestions(
       'Which player holds the record for most goals scored in a single UEFA Champions League season?',
       [
-        'Robert Lewandowski',
         'Cristiano Ronaldo',
+        'Robert Lewandowski',
         'Lionel Messi',
         'Mohamed Salah'
       ]),
