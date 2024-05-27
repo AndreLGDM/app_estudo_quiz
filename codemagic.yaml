@@ -1,0 +1,10 @@
+workflows:
+  flutter_build:
+    name: Flutter Build
+    scripts:
+      # Aqui você pode adicionar comandos de pré-build, como instalação de dependências
+      - name: Pre-build
+        script: flutter pub get
+      # Comando para gerar o bundle
+      - name: Build bundle
+        script: flutter build appbundle
